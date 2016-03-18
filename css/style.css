@@ -1,0 +1,38 @@
+body {
+  background: url("https://images4.alphacoders.com/641/641848.jpg");
+  color: yellow
+}
+
+h1 {
+  color: yellow;
+  font-size: 50px;
+  font-family: arial;
+  text-align: center;
+}
+p{
+  color:yellow
+  
+}
+
+#button{
+  background: yellow;
+  width: 90px;
+  margin: 0 auto;
+  text-align:center;
+  text-decoration: none;
+  padding: 10px; 
+  font-family: 'Passion One', cursive;
+  
+}
+
+.container {
+  margin: 50px 0;
+}
+
+.wha {
+   background: url(http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_1.jpg);
+}
+
+img {
+  image-position: center;
+}
