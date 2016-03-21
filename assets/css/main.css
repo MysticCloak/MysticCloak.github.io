@@ -1704,7 +1704,7 @@
 
 		#banner header {
 			background-color: #252122;
-			background-color: rgba(34, 30, 31, 0.98);
+			background-color: rgba(34, 30, 31, 0.6);
 		}
 
 			#banner header h2 {
@@ -1876,6 +1876,7 @@
 			.button {
 				font-size: 1.1em;
 				padding: 0.65em 1.5em 0.65em 1.5em;
+				
 			}
 
 				input[type="button"].big,
