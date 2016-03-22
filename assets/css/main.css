@@ -1879,6 +1879,10 @@
 				
 			}
 
+			.ctr {
+				margin-left: 30%;
+			}
+
 				input[type="button"].big,
 				input[type="submit"].big,
 				input[type="reset"].big,
